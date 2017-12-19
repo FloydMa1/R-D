@@ -1,0 +1,14 @@
+{"school":[
+  { "school":"MediaCollege",
+    "Category":"MBO",
+    "nr_students":"20000",
+    "courses":
+      { "MD":"MediaDevelopment",
+        "GD":"GameDevelopment"}},
+  { "school":"SterrenCollege",
+    "Category":"VMBO",
+    "nr_students":"400",
+    "courses":
+      { "Bouw":"Bouw",
+        "Economie":"Economie"}}
+]}
